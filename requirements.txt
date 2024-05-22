@@ -11,6 +11,7 @@ scikit-learn
 langchain_core
 spacy
 python-docx
+python -m spacy download en_core_web_sm
 # setup.sh
 #pdf2image ''' for ATS project only. it has dependencies on poppler windows which is required to see all the elements in PDF.
 # Download the poppler windows from https://github.com/oschwartz10612/poppler-windows/releases/tag/v23.11.0-0 and 
